@@ -1,3 +1,3 @@
 # jqBlogs
 
-**my blog pages https://github.com/ljcan/jqBlogs/wiki1**
+**my blog pages https://github.com/ljcan/jqBlogs/wiki**
